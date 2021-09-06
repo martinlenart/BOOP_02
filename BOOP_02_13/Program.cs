@@ -8,6 +8,7 @@ namespace BOOP_02_13
         {
             Console.WriteLine("What is your first name?");
             string firstname = Console.ReadLine();
+            Console.WriteLine(firstname == string.Empty);
 
             Console.WriteLine($"{firstname}, please press a key. (Q or q to quit)");
 
@@ -32,3 +33,12 @@ namespace BOOP_02_13
         }
     }
 }
+//Exercises:
+//1.    Write a program that ask for firstname, lastname and age and responds year of birth.
+//      After entering the details a printout could be for John Smith 25:
+//      "Hello John Smith! You were born 1996.
+//      If age is not an integer (remember int.Parse()) the output should be
+//      "Hello John Smith! I cannot determine your birth year.
+//2.    If firstname or lastname is empty "" it should be replaced with Unknown. Use string.Empty to
+//      determine and empty string, e.g., if (firstname == string.Empty) ....
+

@@ -19,3 +19,7 @@ namespace BOOP_02_07
         }
     }
 }
+//Exercises:
+//1.    Discuss in a group that you really understand the memory structure in the Theory Lesson from above code
+//2.    At line 15 add a line of code that assigns string_b to "Hello".
+//      - In the group, discuss and draw the change in the memory structure, following the image in the Theory Lesson

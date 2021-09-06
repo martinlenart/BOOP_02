@@ -41,3 +41,5 @@ namespace BOOP_02_10
         }
     }
 }
+//Exercises:
+//1.    Change the program in BOOP_02_09.4 to print the Mathematical Constant table using composite format strings.

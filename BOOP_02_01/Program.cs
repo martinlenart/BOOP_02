@@ -60,3 +60,11 @@ namespace BOOP_02_01
         }
     }
 }
+//Excerices:
+//1.    Modify above program to:
+//      -   Declare bool variable and assign it with an expression that becomes true only if y < x + 1. Print out the variable
+//          and test with various values of x and y
+//      -   Declare a bool variable and assign it with an expression that becomes true only if cPoint1 is not (0,0)
+//      -   Declare a bool variable and assign it with an expression that becomes false only if cPoint1 is (0,0)
+//      -   Declare a bool variable and assign it with an expression that becomes true if either cPoint1 is (0,0)
+//      -   or cPoint2 is (0,0)

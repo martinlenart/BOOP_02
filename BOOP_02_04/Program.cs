@@ -30,3 +30,11 @@ namespace BOOP_02_04
         }
     }
 }
+//Excerices:
+//1.    Modify enum type PlayingCardColor from exercise BOOP_02_03, make it a Flags enum, and add members "Red" if
+//      PlayingCardColor is Heart or Diamond and Black if PlayingCardColor is Club or Spade.
+//2.    Declare a variable, card1, of type PlayingCard assign members Color and Value
+//3.    Write code to test if card1 is is Red - if so Printout "a Red Card". If Black Printout "a Black Card"
+
+
+

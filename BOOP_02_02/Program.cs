@@ -36,3 +36,8 @@ namespace BOOP_02_02
         }
     }
 }
+//Excerices:
+//1.    Modify above program to write "Any button pressed" in case any of the simulated buttons are pressed
+//2.    Modify above program to write "All button pressed" in case all of the simulated buttons are pressed
+//3.    Modify above program to simulate that you switch on all LED if all buttons are pressed. I.e.,
+//      the program should write "Right LED On" followed by "Left LED On"

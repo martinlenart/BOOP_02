@@ -49,3 +49,7 @@ namespace BOOP_02_12
         }
     }
 }
+//Exercises:
+//1.    In Excercise BOOP_02_03 and BOOP_02_04 you made struct PlayingCard. Is that type mutable or immutable?
+//2.    Create a new type struct PlayingCardXX with opposite mutability. Create a variable of type PlayingCardXX and 
+//      demonstrate the mutability or immutability

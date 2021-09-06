@@ -38,3 +38,8 @@ namespace BOOP_02_08
         }
     }
 }
+//Exercises:
+//1.    Create a variable of type string and assign it the text "\\Hello\\"World"\\" using Verbatim and non verbatim string
+//2.    Print out "This is a strange printout" using String Concatenation of each word.
+//3.    Declare two variable, var1 and var2 of type float. Assign them value and print out the varible names and the values
+//      using String Interpolation.

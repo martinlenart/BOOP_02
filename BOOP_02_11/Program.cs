@@ -33,3 +33,15 @@ namespace BOOP_02_11
         }
     }
 }
+//Exercises:
+//1.    Make a program that
+//      - assigns a variable, aLimerick1,  of type string the value "There was a young belle of old Natchez".
+//      - use appropriate string manipulation functions on aLimerick1 to assign another string variable, aLimerick2,
+//        the value "There was a old belle of new Natchez"
+//2.    Use appropriate string function to print out the length of aLimerick.
+//3.    Print out aLimeric1 in all lower and all upper characters
+//4.    In Excercise BOOP_02_03 and BOOP_02_04 you made struct PlayingCard. Create a variable of type PlayingCard and assign the
+//      members Color and Value values. For example Color = Diamonds and Value = Ace.
+//      - Declare a string variable and assign it using String interpolation a description of the card. For example
+//      - Ace of Diamonds
+//      - Five of Clubs

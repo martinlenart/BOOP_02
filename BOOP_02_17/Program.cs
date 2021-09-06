@@ -30,3 +30,5 @@ namespace BOOP_02_17
         }
     }
 }
+//Exercises
+//1.    Redo Exercise BOOP_02_16 but using Switch expressions instead

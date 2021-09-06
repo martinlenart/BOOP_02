@@ -27,3 +27,7 @@ namespace BOOP_02_06
         }
     }
 }
+//Excercise:
+//1.    Set a variable of type char to 'þ' (UniCode value 00FE)
+//2.    Explore the Unicode list from the link in the Theory material, select a character from the Latin part, and assign to 
+//      a variable of type char

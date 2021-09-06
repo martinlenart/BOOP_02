@@ -32,3 +32,8 @@ namespace BOOP_02_15
         }
     }
 }
+//Exercises
+//1.    Add Bicycles and Horses to the Favorite enum and modify above code to:
+//      - print out "Love two wheels" if myFavorites is Bicycles or Motorcycles.
+//      - print out "Love horse powers" if myFavorites is Motorcycles or Horses.
+//      - print "Lets go together only for Bicycles and Horses
