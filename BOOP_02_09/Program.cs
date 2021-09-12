@@ -9,9 +9,14 @@ namespace BOOP_02_09
             // Format using string interpolations
             decimal price = 582.5555M;
 
+            //Format as Number
+            Console.WriteLine($"Product A costs: {price:N2}");
+            Console.WriteLine($"Product B costs: {price * 5:N3}");
+
             //Format as Currency
-            Console.WriteLine($"Product A costs: {price:C}");
-            Console.WriteLine($"Product B costs: {price*5:C}");
+            Console.WriteLine();
+            Console.WriteLine($"Product A costs: {price:C2}");
+            Console.WriteLine($"Product B costs: {price*5:C3}");
 
             // Format the price right adjusted in a column 20 characters wide and 4 decimals
             Console.WriteLine();

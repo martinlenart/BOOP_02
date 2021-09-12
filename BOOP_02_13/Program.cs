@@ -16,7 +16,6 @@ namespace BOOP_02_13
             do
             {
                 key = Console.ReadKey();
-
                 Console.WriteLine();
                 Console.Write($"You pressed the key {key.Key}");
                 if (key.Modifiers != 0) 
@@ -37,7 +36,7 @@ namespace BOOP_02_13
 //1.    Write a program that ask for firstname, lastname and age and responds year of birth.
 //      After entering the details a printout could be for John Smith 25:
 //      "Hello John Smith! You were born 1996.
-//      If age is not an integer (remember int.Parse()) the output should be
+//      If age is not an integer (remember int.TryParse()) the output should be
 //      "Hello John Smith! I cannot determine your birth year.
 //2.    If firstname or lastname is empty "" it should be replaced with Unknown. Use string.Empty to
 //      determine and empty string, e.g., if (firstname == string.Empty) ....
